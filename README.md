@@ -2,7 +2,7 @@
 
 # Sentiment Analyis for tweets featuring top trending google searches.
 
-Application link : https://syborg.shinyapps.io/GweetR/
+https://syborg.shinyapps.io/GweetR/
 
 GweetR is a sentiment analysis tool based on tweets of top trending Google searches. It analyses data retrieved geographically from 8 Australian cities and presents the sentiments and vocabulary used for the trend selected by the user. In a nutshell, it paints the current
 'emotionscape', as expressed on Twitter, across the major cities for the most trending queries in Australia at any given moment.
