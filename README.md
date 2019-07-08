@@ -34,3 +34,9 @@ Frequently used words(cloud) :
 Heatmap of everyday moods :
 
 ![alt text](/preview/16.png)
+
+## To do -- 
+
+1. Use VADER for polarity/valence extraction
+2. Train a LSTM/GRU model for sentiment inference
+3. Transfer learning with pretrained models like GPT-2/BERT/XLNET for better inference/predictions 
